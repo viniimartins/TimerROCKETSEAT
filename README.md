@@ -1,2 +1,2 @@
 # timerROCKETSEAT
-Pomodoro em Reac 
+Pomodoro em React
